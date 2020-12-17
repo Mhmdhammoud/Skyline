@@ -1,0 +1,12 @@
+.root {
+	background-image: url('../../assets/footer-background.png');
+	height: 50vh;
+	text-align: center;
+}
+#standard-required:focus {
+	color: #fff;
+}
+#standard-required {
+	border-bottom: #fff !important;
+	color: #fff;
+}
